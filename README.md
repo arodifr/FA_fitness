@@ -9,7 +9,7 @@ This article evaluates three of the main verbal models that have been proposed t
 
 Then, for each verbal model, I defined an empirical causal model and the targets of inference using observational data of facial asymmetries and life-history traits related to fitness (Figure 2).  
 
-![This is an image](https://github.com/arodifr/FA_fitness/blob/main/Fig2_texto.png)
+![This is an image](https://github.com/arodifr/FA_fitness/blob/main/Fig2_text.png)
 
 Finally, I used generalized linear models and causal inference as the estimation strategy. The results are shown in Figure 2.
 
