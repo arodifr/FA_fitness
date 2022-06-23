@@ -11,10 +11,7 @@ Then, for each verbal model, I defined an empirical causal model and the targets
 
 ![This is an image](https://github.com/arodifr/FA_fitness/blob/main/Fig2_texto.png)
 
-Finally, I used generalized linear models and causal inference as the estimation strategy.
-
-![This is an image](https://github.com/arodifr/FA_fitness/blob/main/causal_models_results.png)
-
+Finally, I used generalized linear models and causal inference as the estimation strategy. The results are shown in Figure 2.
 
 Note that due to the nature of the pedigree data, the data used for the heritability estimates are not available.  
 
