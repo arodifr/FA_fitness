@@ -1,6 +1,6 @@
 # Human fluctuating asymmetry and fitness
 
-Source code to generate all the analyzes in section 2.4 of the article "Formal models for the study of the relationship between fluctuating asymmetry and fitness in humans", accepted for publication in the American Journal of Biological Anthropology.
+Source code to generate all the analyzes in section 2.4 of the article "Formal models for the study of the relationship between fluctuating asymmetry and fitness in humans", accepted for publication in the American Journal of Biological Anthropology: https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.24588. 
 
 This article evaluates three of the main verbal models that have been proposed to explain the relationship between fluctuating asymmetry and fitness in humans: the “good genes”, the “good development”, and the “growth” hypotheses. To link theory with evidence on this topic, I used formal models (Smaldino, 2020) to make the research question explicit, as well as the assumptions about what components are (or are not) relevant and how they connect to each other. Specifically, based on the literature, I outlined a theoretical causal model and the theoretical object of inquiry for each verbal model (Figure 1). 
 
